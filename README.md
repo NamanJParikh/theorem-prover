@@ -14,3 +14,6 @@ This program uses a modified implication left rule that is less flexible than Ge
 
 ## Inversions
 This theorem prover is not currently optimized to handle invertible inference rules prior to conducting synchronous search. Inversions or an adaptation of linear logic may be added in the future.
+
+## Acknowledgements
+The basic structure of this code, particularly the logic module, are based on the logic module provided in 15-317 (Constructive Logic) at CMU for the purposes of writing a theorem prover for constructive propositional logic.
