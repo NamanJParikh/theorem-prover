@@ -1,0 +1,4 @@
+(executable
+ (public_name prover)
+ (name main)
+ (libraries prover))

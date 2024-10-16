@@ -1,0 +1,16 @@
+# dune exec prover
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/namanparikh/.cache/dune/db
+# Workspace root: "/Users/namanparikh/Documents/Fall '24/128:151/prover"
+# Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/namanparikh/.opam/default/bin/ocamlc.opt -config > /var/folders/mp/t1mxzpdx7k3522x6km17zjf40000gn/T/dune_e14e64_output
